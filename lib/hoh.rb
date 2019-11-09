@@ -32,9 +32,10 @@ PORTION_4 = {
 
 def naming_system
   PORTION_1
-  test = PORTION_1
-  test[:sub_category][:sub_category][:sub_category] = PORTION_2
-  test
+  test1 = PORTION_1
+  test1[:sub_category][:sub_category][:sub_category] = PORTION_2
+  test1
+  
   
   # Remember:
   #  Kingdom
