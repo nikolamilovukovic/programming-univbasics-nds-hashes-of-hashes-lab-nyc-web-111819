@@ -34,7 +34,7 @@ def naming_system
   PORTION_1
   test = PORTION_1
   test[:sub_category][:sub_category][:sub_category] = PORTION_2
-
+  test
   
   # Remember:
   #  Kingdom
