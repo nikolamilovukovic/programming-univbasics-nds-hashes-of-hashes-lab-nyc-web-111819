@@ -33,7 +33,7 @@ PORTION_4 = {
 def naming_system
   PORTION_1
   test = PORTION_1
-  p test[:sub_category][:sub_category]
+  test[:sub_category][:sub_category][:sub_category] = PORTION_2
   
   
   
