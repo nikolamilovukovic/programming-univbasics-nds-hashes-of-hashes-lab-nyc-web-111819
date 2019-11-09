@@ -35,6 +35,7 @@ def naming_system
   test = PORTION_1
  # test[:sub_category][:sub_category][:sub_category] = PORTION_2
  p "Here is PORTION_1"
+ p PORTION_1
   test[:sub_category][:sub_category]= PORTION_2
   p test
   
