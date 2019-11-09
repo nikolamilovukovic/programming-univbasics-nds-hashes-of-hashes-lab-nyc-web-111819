@@ -33,9 +33,9 @@ PORTION_4 = {
 def naming_system
   PORTION_1
   test = PORTION_1
-  test[:sub_category][:sub_category]
+  p test[:sub_category][:sub_category]
   
-  p test
+  
   
   
   
