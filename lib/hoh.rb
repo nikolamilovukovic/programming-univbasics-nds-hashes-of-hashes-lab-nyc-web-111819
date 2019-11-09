@@ -38,7 +38,7 @@ def naming_system
  p PORTION_1
  p "HERE IS TEST"
 
-  test[:sub_category][:sub_category]= PORTION_2
+  test[:sub_category][:sub_category] << "JOB"
   p test
   
   
