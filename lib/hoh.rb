@@ -32,6 +32,7 @@ PORTION_4 = {
 
 def naming_system
   PORTION_1
+  naming_system[]
   
   
   
